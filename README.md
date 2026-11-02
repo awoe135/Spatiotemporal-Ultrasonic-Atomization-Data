@@ -18,16 +18,4 @@ These data support the experimental results presented in Fig. 8 of the associate
 
 The physical definition and units of the driving settings are specified in the associated experimental methods.
 
-## Relationship to Previous Research
-
-The acoustic focusing platform was established in the preceding study:
-
-Wang et al., "Sonic-Black-Hole Acoustic Focusing for Non-contact Atomization of Silicone Oils up to 2000 cP", *Lab on a Chip* (2026).
-
-https://doi.org/10.1039/d6lc00699j
-
-Supplementary information: contains videos illustrating
-the ultrasonic atomization process investigated in this study.
-See DOI: https://pubs.rsc.org/lc/article-supplement/1373013/mp4/supplementary+video+1-2000cp+atomization+experimen_suppl/
-
 The present repository is intended to document the experimental datasets supporting the subsequent investigation of viscosity-dependent atomization behavior.
